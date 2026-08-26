@@ -21,6 +21,86 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260719-0450.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260719-0451.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260719-0452.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260721-0085.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260721-0086.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260721-0087.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260722-0346.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/myth-002-3q3je8.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/t3link-002-vruapr.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sindorim-room-note.link-hub.org/posts/review-001.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260719-0443.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -52,21 +132,6 @@
   </url>
   <url>
     <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260719-0449.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260719-0450.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260719-0451.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260719-0452.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -106,21 +171,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260721-0085.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260721-0086.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260721-0087.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260722-0342.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -137,11 +187,6 @@
   </url>
   <url>
     <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260722-0345.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260722-0346.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -172,56 +217,6 @@
   </url>
   <url>
     <loc>https://sindorim-room-note.link-hub.org/posts/gemini-coverage-20260722-0352.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/myth-002-3q3je8.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/review-001.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts/t3link-002-vruapr.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sindorim-room-note.link-hub.org/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
